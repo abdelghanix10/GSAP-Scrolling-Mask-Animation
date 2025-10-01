@@ -4,7 +4,7 @@ A simple, eye-catching scroll-driven “mask” effect using GSAP 3 and ScrollTr
 
 ## Demo
 
-![Demo – GSAP Scrolling Mask Animation](./demo.gif)
+![Demo – GSAP Scrolling Mask Animation](./screendemon.gif)
 
 ## Demo summary
 
